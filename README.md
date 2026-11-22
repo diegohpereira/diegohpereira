@@ -4,7 +4,7 @@
 
 **Design Systems · Data-Informed Decision-Making · Acessibilidade (WCAG) · HTML / CSS / JS / React**
 
-Atuo como Product Designer focado na modernização de sistemas corporativos e na construção de produtos digitais sustentados por decisões informadas por dados, heurísticas de usabilidade e pesquisa com usuários. Atualmente venho expandindo minha atuação na interseção entre design e engenharia, estudando fundamentos de HTML, CSS, JavaScript, React e lógica de programação para prototipar e construir componentes mais próximos da implementação real.
+Atuo como Product Designer focado na modernização de sistemas corporativos e na construção de produtos digitais sustentados por decisões informadas por dados, heurísticas de usabilidade e pesquisa com usuários. Atualmente venho expandindo minha atuação na interseção entre design e engenharia, através da adição de HTML, CSS, JavaScript, React e lógica de programação para prototipar e construir componentes mais próximos da implementação real.
 
 Ao longo da minha trajetória, já atuei em modernização de sistemas no setor de energia, redesenho de fluxos e onboarding em plataformas SaaS, criação de componentes de Design System com impacto mensurável em engajamento e redução de chamados, além de projetos independentes em UX/UI, Web e Game Design.
 
