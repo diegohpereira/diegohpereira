@@ -14,7 +14,7 @@ Ao longo da minha trajetória, já atuei em modernização de sistemas no setor 
 | :--- | :--- |
 | **Descoberta e decisões** | Ancorar escolhas de produto em pesquisa, métricas, heurísticas de Nielsen e frameworks como Double Diamond, Service Blueprint, Opportunity Solution Trees e Jobs to be Done. |
 | **Design Systems e consistência** | Estruturar padrões, tokens e componentes reutilizáveis com foco em clareza, acessibilidade (WCAG) e alinhamento entre design e desenvolvimento. |
-| **UX / Design Engineering** | Reduzir o atrito entre concepção e código aplicando HTML, CSS, JavaScript/React e lógica de programação no dia a dia. |
+| **UX / Design Engineering** | Integrar design e engenharia na construção de produtos digitais, utilizando programação, prototipação, arquitetura de interfaces e Design Systems para transformar conceitos em experiências funcionais, acessíveis e escaláveis. |
 | **Pesquisa e validação** | Conduzir entrevistas, testes de usabilidade, análise qualitativa e benchmarks para validar hipóteses antes de escalar soluções. |
 
 ## Ferramentas e estudos
